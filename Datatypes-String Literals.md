@@ -9,8 +9,10 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## Program:
+```
 men_stepped_on_the_moon=12
 print(men_stepped_on_the_moon)
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/0e970144-c704-4d2a-83e0-ba4dab41035c)
 
