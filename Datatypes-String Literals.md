@@ -1,4 +1,4 @@
-# Datatypes-Read and Print a String in Python
+# EX-05-Datatypes-Read and Print a String in Python
 
 ## Aim:
 To write a Python program to read a string from the user and then print it.
